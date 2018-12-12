@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # oracleapp
 This application was generated using JHipster 5.7.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.7.0](https://www.jhipster.tech/documentation-archive/v5.7.0).
 
@@ -85,3 +86,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Setting up Continuous Integration]: https://www.jhipster.tech/documentation-archive/v5.7.0/setting-up-ci/
 
 
+=======
+# oracle4windowsdocker
+oracleapp on windows docker
+>>>>>>> 5e17d820cc0783a1d580ffba1c811d630d1417df
