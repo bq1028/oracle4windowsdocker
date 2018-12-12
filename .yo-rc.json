@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bq1028.oracle"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "oracleapp",
+    "packageName": "com.bq1028.oracle",
+    "packageFolder": "com/bq1028/oracle",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2I1MjY4NWMyNzhjY2YwZTg3MTEyZGUzZTJiN2FjM2E4MWYxNDZjOTZjOWFlZjZiYzlmMDk0MjVhNWJjZTIxOTBjZmVhYjdjYjU1ZWU5YTVkM2IxMjU5NTZlNDQ5YmMyODBjNTc3MWZmOGQ0MTk3ZWJlZDYxNjAwMjU5OTc0ZDU=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
